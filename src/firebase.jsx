@@ -3,9 +3,9 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 const firebaseConfig = {
   apiKey: "ADD YOUR",
-  authDomain: "ADD YOUR,
+  authDomain: "ADD YOUR",
   projectId: "ADD YOUR",
-  storageBucket: "ADD YOUR,
+  storageBucket: "ADD YOUR",
   messagingSenderId: "ADD YOUR",
   appId: "ADD YOUR",
   measurementId: "ADD YOUR",
