@@ -25,7 +25,7 @@ Nexus is a robust disaster management platform engineered with the MERN stack. I
 
 ## Installation
 
-1. Clone the repository: `git clone <https://github.com/shanmugapriya1203/nexus-client.git>`
+1. Clone the repository: `git clone <https://github.com/ankitgupta143/disaster-relief-site.git>`
 2. Navigate to the project directory: `cd <master>`
 3. Install dependencies: `npm install` or `yarn install`
 
@@ -47,8 +47,8 @@ If you'd like to contribute, please follow these guidelines:
 ## Contact
 
 - Author Name: [Sam]
-- GitHub: [(https://github.com/shanmugapriya1203)]
-- Email: [priyamuthukumar1203@gmail.com]
+- GitHub: [(https://github.com/ankitgupta143)]
+- Email: [ankitg8844@gmail.com]
 
 ## Home Page
 ![Home Page](https://github.com/shanmugapriya1203/nexus-client/assets/110707278/1158ac27-4fd5-46c7-a584-1c65ba5e8818)
